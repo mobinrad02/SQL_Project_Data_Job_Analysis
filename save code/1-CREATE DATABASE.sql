@@ -1,0 +1,2 @@
+--1:54:26
+CREATE DATABASE sql_course;
